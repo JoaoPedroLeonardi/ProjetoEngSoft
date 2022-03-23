@@ -1,0 +1,29 @@
+
+/* Primeira folha de estilos interna */
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 18px;  
+    background-color: rgb(255, 255, 255); 
+}
+
+h1 {
+    font-weight: 500;
+   background-color: rgb(250, 150, 0);
+   color: #ffffff
+}
+
+a {
+   color:rgb(250, 150, 0);
+}
+
+table{
+    text-decoration: underline;
+    line-height: 27px;
+    text-align: left;
+    border-collapse: collapse; 
+    background: #FFFFF0;
+    border: 1px solid black;
+    border: 1px solid black;
+    background: #fff6d4;
+	}
